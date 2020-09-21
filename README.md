@@ -1,1 +1,2 @@
-# -pratica_git_flow
+# Práctica Git Flow.
+Development branch.
