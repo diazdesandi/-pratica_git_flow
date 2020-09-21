@@ -1,2 +1,2 @@
 # Práctica Git Flow.
-Development branch.
+Features branch.
